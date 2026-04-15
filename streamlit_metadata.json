@@ -1,0 +1,64 @@
+{
+  "numerical_features": [
+    "model_year",
+    "milage",
+    "car_age",
+    "mileage_per_year"
+  ],
+  "categorical_features": [
+    "transmission_simple",
+    "brand_category",
+    "fuel_type",
+    "accident",
+    "clean_title"
+  ],
+  "binary_features": [
+    "is_luxury"
+  ],
+  "all_features": [
+    "model_year",
+    "milage",
+    "car_age",
+    "is_luxury",
+    "mileage_per_year",
+    "transmission_simple",
+    "brand_category",
+    "fuel_type",
+    "accident",
+    "clean_title"
+  ],
+  "brand_categories": [
+    "Ford",
+    "Other",
+    "Lexus",
+    "Audi",
+    "BMW",
+    "Land",
+    "Toyota",
+    "Mercedes-Benz",
+    "Chevrolet",
+    "Jeep",
+    "Porsche"
+  ],
+  "fuel_types": [
+    "E85 Flex Fuel",
+    "Gasoline",
+    "Hybrid",
+    "Diesel",
+    "Plug-In Hybrid",
+    "\u2013",
+    "not supported"
+  ],
+  "transmission_types": [
+    "Automatic",
+    "Manual"
+  ],
+  "accident_options": [
+    "At least 1 accident or damage reported",
+    "None reported"
+  ],
+  "clean_title_options": [
+    "Yes",
+    "No"
+  ]
+}

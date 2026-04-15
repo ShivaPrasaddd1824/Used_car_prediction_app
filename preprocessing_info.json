@@ -1,0 +1,1 @@
+{"numerical_cols": ["model_year", "milage", "car_age", "mileage_per_year"], "categorical_cols": ["transmission_simple", "brand_category", "fuel_type", "accident", "clean_title"], "binary_cols": ["is_luxury"]}
